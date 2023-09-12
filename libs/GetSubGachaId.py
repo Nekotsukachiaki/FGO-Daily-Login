@@ -20,3 +20,4 @@ def GetGachaSubIdFP(region):
                 priority = p
                 goodGacha = gacha
     return str(goodGacha["id"])
+    
